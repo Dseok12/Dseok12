@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Name is <h1>JEONG WON SEOK</h1>
+My Name is <strong>JEONG WON SEOK</strong>
